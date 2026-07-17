@@ -1,7 +1,7 @@
 {
   "name": "Marathon beuken (Michael) , bartlopen Run Coach",
   "short_name": "Marathon beuken",
-  "description": "Michael's 16-weken marathonschema richting 1 november, met coaching, planning, stats en badges.",
+  "description": "Michaels 16-weken marathonschema richting 1 november, met coaching, planning, stats en badges.",
   "start_url": ".", "scope": ".", "display": "standalone", "orientation": "portrait",
   "background_color": "#0e0b0d", "theme_color": "#0e0b0d",
   "icons": [
